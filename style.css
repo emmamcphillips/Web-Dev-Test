@@ -1,0 +1,33 @@
+body {
+	background-color: ghostwhite;
+	font-family: 'Indie Flower', cursive;
+}
+
+.navBar {
+	background-color: plum;
+	width: 100%;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+li {
+    font-family: 'Monda', sans-serif;
+	display: inline-block;
+	padding: 20px;
+	font-size: 28px;
+}
+
+a {
+	color: white;
+}
+
+h1 {
+	color: hotpink;
+}
+
+p {
+	color: dimgray;
+
+}
