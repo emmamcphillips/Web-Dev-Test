@@ -1,6 +1,6 @@
 body {
 	background-color: ghostwhite;
-	font-family: 'Indie Flower', cursive;
+
 }
 
 .navBar {
@@ -13,7 +13,7 @@ body {
 }
 
 li {
-    font-family: 'Monda', sans-serif;
+  
 	display: inline-block;
 	padding: 20px;
 	font-size: 28px;
